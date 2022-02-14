@@ -1,2 +1,4 @@
 # Curso ADS
- Primeiro repositório de Git, GitHub
+ Primeiro repositório de Git e GitHub
+ 
+ Primeira aula!
