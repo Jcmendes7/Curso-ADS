@@ -1,0 +1,14 @@
+p{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.container{
+background-color: rgb(11, 129, 11);
+}
+h1{
+    color: white;
+}
+.a{
+    color: blue;
+}
